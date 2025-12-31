@@ -8,6 +8,7 @@
 Admins can place cash registers directly in-game, link them to specific jobs, and employees can bill nearby players through a simple, intuitive interface.
 
 🔗 YouTube Preview: **[https://www.youtube.com/watch?v=GAzd1ECR-jI](https://www.youtube.com/watch?v=GAzd1ECR-jI)**
+
 🛒 Get it on Tebex: **[https://trap-scripts.tebex.io/package/7197624](https://trap-scripts.tebex.io/package/7197624)**
 
 ---
